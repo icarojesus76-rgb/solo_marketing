@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "ai-marketing-videos": {
+      "source": "inferen-sh/skills",
+      "sourceType": "github",
+      "computedHash": "e101767679fa204ade10423a48ea89b489faa5ff743cd1cd29f0d03043220ab4"
+    },
+    "crewai-multi-agent": {
+      "source": "davila7/claude-code-templates",
+      "sourceType": "github",
+      "computedHash": "487d8dfd3f3cbe34786c0e671fe5898969b617213d6395ccdad87e4d64429d46"
+    },
+    "marketing-psychology": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "computedHash": "5b8654c4d6db63d9da55f7cd56f2babd92e602b089e96a86ef38c7f547f51d52"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "computedHash": "9fb08ab39585f6f770d0c1c735f83e619aba2089d7ad50ba2a305eff715e08b9"
+    }
+  }
+}
