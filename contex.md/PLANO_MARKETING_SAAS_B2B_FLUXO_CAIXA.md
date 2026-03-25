@@ -26,11 +26,13 @@ Plataforma SaaS 100% impulsionada por inteligência artificial que transforma a 
 
 ### 1.3 Pilares Estratégicos
 
-1. **Educação como aquisição** — Conteúdo que resolve problemas reais gera confiança e reduz ciclo de venda
-2. **Automação completa** — Agentes IA operam campanhas, funil e suporte com mínima intervenção humana
-3. **Localization-first** — Cada mercado recebe comunicação culturalmente relevante
-4. **Product-led growth** — Trial gratuito com onboarding guiado por IA para conversão orgânica
-5. **Parcerias estratégicas** — Ecossistema de contadores e escritórios contábeis como canal primário
+| ID | Pilar Estratégico | Descrição |
+|----|-------------------|-----------|
+| STR-001 | **Educação como aquisição** | Conteúdo que resolve problemas reais gera confiança e reduz ciclo de venda |
+| STR-002 | **Automação completa** | Agentes IA operam campanhas, funil e suporte com mínima intervenção humana |
+| STR-003 | **Localization-first** | Cada mercado recebe comunicação culturalmente relevante |
+| STR-004 | **Product-led growth** | Trial gratuito com onboarding guiado por IA para conversão orgânica |
+| STR-005 | **Parcerias estratégicas** | Ecossistema de contadores e escritórios contábeis como canal primário |
 
 ---
 
@@ -51,6 +53,7 @@ O público-alvo principal compreende PMEs com faturamento anual entre R$ 360 mil
 ### 2.2 Personas Detalhadas
 
 #### PERSONA 1: "O Dono Prático" (Decision Maker)
+**ID:** PER-001
 
 **Perfil Demográfico:**
 - Idade: 35-55 anos
@@ -95,6 +98,7 @@ O público-alvo principal compreende PMEs com faturamento anual entre R$ 360 mil
 ---
 
 #### PERSONA 2: "A Controladora Estratégica" (Economic Buyer)
+**ID:** PER-002
 
 **Perfil Demográfico:**
 - Idade: 30-50 anos
@@ -139,6 +143,7 @@ O público-alvo principal compreende PMEs com faturamento anual entre R$ 360 mil
 ---
 
 #### PERSONA 3: "O Contador de Futuro" (Influencer/Channel Partner)
+**ID:** PER-003
 
 **Perfil Demográfico:**
 - Idade: 35-60 anos
@@ -233,55 +238,22 @@ O público-alvo principal compreende PMEs com faturamento anual entre R$ 360 mil
 
 ### 3.3 Diferenciais Competitivos
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    DIFERENCIAIS STRATEGICOS                      │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  1. IA PREDITIVA DE FLUXO DE CAIXA                               │
-│     └── Forecasts automáticos com machine learning               │
-│     └── Detecção de anomalias e alertas proativos                │
-│                                                                  │
-│  2. INTEGRAÇÃO UNIVERSAL                                         │
-│     └── +200 bancos conectados automaticamente                   │
-│     └── Importação de planilhas em 1-click                       │
-│     └── API aberta para ERPs e sistemas                          │
-│                                                                  │
-│  3. ONBOARDING GUIADO POR IA                                     │
-│     └── Setup em menos de 15 minutos                             │
-│     └── Treinamento personalizado por perfil                      │
-│     └── Suporte 24/7 em português, inglês e espanhol              │
-│                                                                  │
-│  4. MULTI-USUÁRIO E MULTI-EMPRESA                                │
-│     └── Ideal para contadores com múltiplos clientes             │
-│     └── Permissões granulares por função                         │
-│     └── Relatórios customizáveis por stakeholder                 │
-│                                                                  │
-│  5. PREÇO ADEQUADO À PMES                                        │
-│     └── Planos a partir de R$ 97/mês                             │
-│     └── Sem surpresa de custos por transação                      │
-│     └── Trial gratuito de 14 dias                                │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+| ID | Diferencial | Descrição Detalhada |
+|----|-------------|---------------------|
+| DIF-001 | **IA Preditiva de Fluxo de Caixa** | Forecasts automáticos com machine learning, detecção de anomalias e alertas proativos |
+| DIF-002 | **Integração Universal** | +200 bancos conectados automaticamente, importação de planilhas em 1-click, API aberta para ERPs |
+| DIF-003 | **Onboarding Guiado por IA** | Setup em menos de 15 minutos, treinamento personalizado por perfil, suporte 24/7 multilíngue |
+| DIF-004 | **Multi-Usuário e Multi-Empresa** | Ideal para contadores com múltiplos clientes, permissões granulares, relatórios customizáveis |
+| DIF-005 | **Preço Adequado às PMEs** | Planos a partir de R$ 97/mês, sem surpresas de custos por transação, trial gratuito de 14 dias |
 
 ### 3.4 Pilares da Mensagem
 
-**Pilar 1: Simplicidade**
-- "Inteligência que você entende, controle que você precisa"
-- Foco em resultados, não em tecnologia
-
-**Pilar 2: Previsibilidade**
-- "Veja o amanhã hoje"
-- Alertas antecipados para apertos de caixa
-
-**Pilar 3: Produtividade**
-- "15 horas economizadas por semana em reconciliação"
-- automação que elimina trabalho manual
-
-**Pilar 4: Confiança**
-- "Seus dados protegidos com criptografia bancária"
-- Compliance com LGPD e GDPR
+| ID | Pilar | Mensagem Principal | Sub-mensagem |
+|----|-------|-------------------|--------------|
+| MSG-001 | **Simplicidade** | "Inteligência que você entende, controle que você precisa" | Foco em resultados, não em tecnologia |
+| MSG-002 | **Previsibilidade** | "Veja o amanhã hoje" | Alertas antecipados para apertos de caixa |
+| MSG-003 | **Produtividade** | "15 horas economizadas por semana em reconciliação" | Automação que elimina trabalho manual |
+| MSG-004 | **Confiança** | "Seus dados protegidos com criptografia bancária" | Compliance com LGPD e GDPR |
 
 ---
 
@@ -338,7 +310,23 @@ O público-alvo principal compreende PMEs com faturamento anual entre R$ 360 mil
 
 ### 4.2 Estratégia Detalhada por Canal
 
+| ID | Canal | Categoria | Prioridade | Mercado Principal |
+|----|-------|-----------|------------|-------------------|
+| CHN-001 | SEO / Blog | Aquisição Digital | Alta | Todos |
+| CHN-002 | Google Ads | Mídia Paga | Alta | Brasil, EUA |
+| CHN-003 | Meta Ads (FB+Insta) | Mídia Paga | Alta | Brasil, México |
+| CHN-004 | LinkedIn Ads | Mídia Paga | Média | Brasil, EUA, Europa |
+| CHN-005 | YouTube | Conteúdo/Ads | Alta | Todos |
+| CHN-006 | TikTok/Reels | Conteúdo Viral | Média | Brasil, México, APAC |
+| CHN-007 | Podcast | Parceria | Média | Brasil, EUA |
+| CHN-008 | Programa Parceiros | Canal | Alta | Brasil |
+| CHN-009 | Eventos Presenciais | Canal Offline | Média | Brasil |
+| CHN-010 | E-mail Marketing | Nurturing | Alta | Todos |
+| CHN-011 | WhatsApp | Nurturing/Suporte | Alta | Brasil |
+| CHN-012 | PR e Imprensa | Offline | Baixa | Brasil, EUA |
+
 #### 4.2.1 SEO E BLOG (Tráfego Orgânico)
+**ID:** CHN-001
 
 **Objetivo:** Ser a referência em conteúdo sobre fluxo de caixa para PMEs
 
@@ -911,61 +899,61 @@ CTA (20-25s):    "Comece grátis no link da bio"
 
 #### 7.2.1 KPIs de Aquisição
 
-| KPI | Definição | Meta Ano 1 | Meta Ano 2 | Meta Ano 3 |
-|-----|-----------|------------|------------|------------|
-| Tráfego único mensal | Visitantes únicos/semana | 33.000 | 120.000 | 500.000 |
-| Leads gerados/mês | Total de leads qualificados | 1.250 | 4.000 | 15.000 |
-| Custo por lead (CPL) | Custo total de mídia / leads | R$ 80 | R$ 60 | R$ 50 |
-| Taxa de conversão site→lead | Leads / Visitas % | 3% | 4% | 5% |
-| MQLs gerados/mês | Marketing Qualified Leads | 300 | 1.000 | 4.000 |
-| SQLs gerados/mês | Sales Qualified Leads | 100 | 400 | 1.500 |
-| Custo de Aquisição (CAC) | Custo total / Novos clientes | R$ 180 | R$ 150 | R$ 120 |
+| ID | KPI | Definição | Meta Ano 1 | Meta Ano 2 | Meta Ano 3 |
+|----|-----|-----------|------------|------------|------------|
+| KPI-101 | Tráfego único mensal | Visitantes únicos/semana | 33.000 | 120.000 | 500.000 |
+| KPI-102 | Leads gerados/mês | Total de leads qualificados | 1.250 | 4.000 | 15.000 |
+| KPI-103 | Custo por lead (CPL) | Custo total de mídia / leads | R$ 80 | R$ 60 | R$ 50 |
+| KPI-104 | Taxa conversão site→lead | Leads / Visitas % | 3% | 4% | 5% |
+| KPI-105 | MQLs gerados/mês | Marketing Qualified Leads | 300 | 1.000 | 4.000 |
+| KPI-106 | SQLs gerados/mês | Sales Qualified Leads | 100 | 400 | 1.500 |
+| KPI-107 | Custo de Aquisição (CAC) | Custo total / Novos clientes | R$ 180 | R$ 150 | R$ 120 |
 
 #### 7.2.2 KPIs de Conversão
 
-| KPI | Definição | Meta Ano 1 | Meta Ano 2 | Meta Ano 3 |
-|-----|-----------|------------|------------|------------|
-| Taxa trial→pago | % conversion trial | 18% | 22% | 25% |
-| Trial iniciados/mês | Novos trials | 333 | 1.100 | 4.000 |
-| Tempo médio de trial | Dias até conversão | 7 | 5 | 4 |
-| Lead-to-Close rate | % SQL que viram cliente | 25% | 30% | 35% |
-| Ciclo de venda | Dias entre MQL e close | 45 | 35 | 25 |
-| Receita por trial | ARPU inicial | R$ 1.500 | R$ 2.000 | R$ 2.500 |
+| ID | KPI | Definição | Meta Ano 1 | Meta Ano 2 | Meta Ano 3 |
+|----|-----|-----------|------------|------------|------------|
+| KPI-201 | Taxa trial→pago | % conversion trial | 18% | 22% | 25% |
+| KPI-202 | Trial iniciados/mês | Novos trials | 333 | 1.100 | 4.000 |
+| KPI-203 | Tempo médio de trial | Dias até conversão | 7 | 5 | 4 |
+| KPI-204 | Lead-to-Close rate | % SQL que viram cliente | 25% | 30% | 35% |
+| KPI-205 | Ciclo de venda | Dias entre MQL e close | 45 | 35 | 25 |
+| KPI-206 | Receita por trial | ARPU inicial | R$ 1.500 | R$ 2.000 | R$ 2.500 |
 
 #### 7.2.3 KPIs de Retenção e Expansão
 
-| KPI | Definição | Meta Ano 1 | Meta Ano 2 | Meta Ano 3 |
-|-----|-----------|------------|------------|------------|
-| Churn mensal | % MRR perdido/mês | < 3% | < 2.5% | < 2% |
-| Net Revenue Retention (NRR) | Retenção + expansão | > 105% | > 110% | > 115% |
-| Logo churn | % clientes que cancelam | < 5% | < 4% | < 3% |
-| Expansion revenue | Upsell + cross-sell | 10% do MRR | 15% do MRR | 20% do MRR |
-| LTV (Lifetime Value) | Receita média × vida útil | R$ 3.600 | R$ 6.000 | R$ 9.600 |
-| LTV:CAC Ratio | LTV / CAC | > 2.0 | > 3.0 | > 4.0 |
-| CAC Payback | Meses para recuperar CAC | < 14 | < 12 | < 10 |
+| ID | KPI | Definição | Meta Ano 1 | Meta Ano 2 | Meta Ano 3 |
+|----|-----|-----------|------------|------------|------------|
+| KPI-301 | Churn mensal | % MRR perdido/mês | < 3% | < 2.5% | < 2% |
+| KPI-302 | Net Revenue Retention (NRR) | Retenção + expansão | > 105% | > 110% | > 115% |
+| KPI-303 | Logo churn | % clientes que cancelam | < 5% | < 4% | < 3% |
+| KPI-304 | Expansion revenue | Upsell + cross-sell | 10% MRR | 15% MRR | 20% MRR |
+| KPI-305 | LTV (Lifetime Value) | Receita média × vida útil | R$ 3.600 | R$ 6.000 | R$ 9.600 |
+| KPI-306 | LTV:CAC Ratio | LTV / CAC | > 2.0 | > 3.0 | > 4.0 |
+| KPI-307 | CAC Payback | Meses para recuperar CAC | < 14 | < 12 | < 10 |
 
 #### 7.2.4 KPIs de Engajamento e Marca
 
-| KPI | Definição | Meta Ano 1 | Meta Ano 2 | Meta Ano 3 |
-|-----|-----------|------------|------------|------------|
-| NPS (Net Promoter Score) | Satisfação cliente (0-10) | > 45 | > 55 | > 65 |
-| CSAT (Satisfação) | % clientes satisfeitos | > 80% | > 85% | > 90% |
-| Subscribers YouTube | Inscritos no canal | 5.000 | 20.000 | 80.000 |
-| Seguidores LinkedIn | Conexões profissionais | 10.000 | 40.000 | 150.000 |
-| Audiência Podcast | Downloads únicos/mês | 3.000 | 12.000 | 40.000 |
-| Menciones de marca | Referências orgânicas | 50/mês | 200/mês | 800/mês |
-| Backlinks | Autoridade de domínio | DA 30+ | DA 45+ | DA 60+ |
+| ID | KPI | Definição | Meta Ano 1 | Meta Ano 2 | Meta Ano 3 |
+|----|-----|-----------|------------|------------|------------|
+| KPI-401 | NPS (Net Promoter Score) | Satisfação cliente (0-10) | > 45 | > 55 | > 65 |
+| KPI-402 | CSAT (Satisfação) | % clientes satisfeitos | > 80% | > 85% | > 90% |
+| KPI-403 | Subscribers YouTube | Inscritos no canal | 5.000 | 20.000 | 80.000 |
+| KPI-404 | Seguidores LinkedIn | Conexões profissionais | 10.000 | 40.000 | 150.000 |
+| KPI-405 | Audiência Podcast | Downloads únicos/mês | 3.000 | 12.000 | 40.000 |
+| KPI-406 | Menções de marca | Referências orgânicas | 50/mês | 200/mês | 800/mês |
+| KPI-407 | Backlinks | Autoridade de domínio | DA 30+ | DA 45+ | DA 60+ |
 
 #### 7.2.5 KPIs de Agentes IA (Automação)
 
-| KPI | Definição | Meta Ano 1 | Meta Ano 2 | Meta Ano 3 |
-|-----|-----------|------------|------------|------------|
-| Leads processados por IA | Automação de qualificação | 60% | 80% | 90% |
-| Respostas IA (suporte) | % tickets resolvidos por IA | 50% | 70% | 85% |
-| Conteúdo gerado por IA | % peças com assistência IA | 40% | 60% | 80% |
-| Taxa automação nurturing | Sequences 自动izados | 70% | 85% | 95% |
-| Tempo resposta IA | Milissegundos | < 100ms | < 50ms | < 25ms |
-| Acurácia IA | Precisão de classificação | > 85% | > 90% | > 95% |
+| ID | KPI | Definição | Meta Ano 1 | Meta Ano 2 | Meta Ano 3 |
+|----|-----|-----------|------------|------------|------------|
+| KPI-501 | Leads processados por IA | Automação de qualificação | 60% | 80% | 90% |
+| KPI-502 | Respostas IA (suporte) | % tickets resolvidos por IA | 50% | 70% | 85% |
+| KPI-503 | Conteúdo gerado por IA | % peças com assistência IA | 40% | 60% | 80% |
+| KPI-504 | Taxa automação nurturing | Sequences automatizados | 70% | 85% | 95% |
+| KPI-505 | Tempo resposta IA | Milissegundos | < 100ms | < 50ms | < 25ms |
+| KPI-506 | Acurácia IA | Precisão de classificação | > 85% | > 90% | > 95% |
 
 ### 7.3 Dashboard de Relatórios
 
@@ -1268,8 +1256,8 @@ LOW        ├──────────────────────
 │                          ROADMAP DE 12 MESES                            │
 ├─────────────────────────────────────────────────────────────────────────┤
 │                                                                          │
-│  MÊS 1-3: FUNDAÇÃO                                                        │
-│  ══════════════════════                                                   │
+│  FASE 1: MÊS 1-3 (RD-001) - FUNDAÇÃO                                    │
+│  ════════════════════════════════                                       │
 │  ► Site + Trial funcional                                               │
 │  ► CRM configurado                                                       │
 │  ► Primeiras campanhas Google Ads                                       │
@@ -1277,8 +1265,8 @@ LOW        ├──────────────────────
 │  ► LinkedIn Company Page                                                 │
 │  ► YouTube channel                                                       │
 │                                                                          │
-│  MÊS 4-6: CRESCIMENTO                                                    │
-│  ═════════════════════════                                               │
+│  FASE 2: MÊS 4-6 (RD-002) - CRESCIMENTO                                │
+│  ═══════════════════════════════════                                     │
 │  ► Meta Ads launch                                                       │
 │  ► Programa parceiros contábeis                                          │
 │  ► LinkedIn Ads                                                          │
@@ -1286,8 +1274,8 @@ LOW        ├──────────────────────
 │  ► YouTube conteúdo recorrente                                           │
 │  ► Primeiro webinar                                                      │
 │                                                                          │
-│  MÊS 7-9: ESCALA                                                         │
-│  ═════════════════════                                                   │
+│  FASE 3: MÊS 7-9 (RD-003) - ESCALA                                      │
+│  ═══════════════════════════════                                         │
 │  ► YouTube Ads                                                           │
 │  ► TikTok/Reels                                                          │
 │  ► Podcast launch                                                        │
@@ -1295,8 +1283,8 @@ LOW        ├──────────────────────
 │  ► Expansão LinkedIn                                                     │
 │  ► Campanhas sazonais                                                    │
 │                                                                          │
-│  MÊS 10-12: MATURIDADE                                                   │
-│  ══════════════════════════                                              │
+│  FASE 4: MÊS 10-12 (RD-004) - MATURIDADE                                │
+│  ════════════════════════════════════════                                │
 │  ► Evento presencial primeiro                                            │
 │  ► Preparação expansão internacional                                     │
 │  ► Otimização agressiva de unit economics                               │
@@ -1306,21 +1294,28 @@ LOW        ├──────────────────────
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
+| ID | Fase | Período | Status | Prioridade |
+|----|------|---------|--------|------------|
+| RD-001 | Fundação | Meses 1-3 | Planejado | Crítica |
+| RD-002 | Crescimento | Meses 4-6 | Planejado | Alta |
+| RD-003 | Escala | Meses 7-9 | Planejado | Alta |
+| RD-004 | Maturidade | Meses 10-12 | Planejado | Média |
+
 ---
 
 ## 10. RISCOS E MITIGAÇÕES
 
 ### 10.1 Matriz de Riscos
 
-| Risco | Probabilidade | Impacto | Mitigação |
-|-------|--------------|---------|-----------|
-| CPL muito alto | Alta | Alto | Diversificar canais, otimizar landing |
-| Churn elevado | Média | Alto | Investir em onboarding + CS proativo |
-| Concorrente copy | Alta | Médio | Acelerar feature + brand differentiation |
-| Mudança regulatória | Baixa | Alto | Compliance team + monitoramento |
-| Falha de integração | Média | Médio | QA rigoroso + fallback manual |
-| Team burnout | Média | Alto | Automação IA + processos claros |
-| Sazonalidade | Alta | Médio | Planejar budget + campanhas off-season |
+| ID | Risco | Probabilidade | Impacto | Mitigação |
+|----|-------|--------------|---------|-----------|
+| RSC-001 | CPL muito alto | Alta | Alto | Diversificar canais, otimizar landing |
+| RSC-002 | Churn elevado | Média | Alto | Investir em onboarding + CS proativo |
+| RSC-003 | Concorrente copy | Alta | Médio | Acelerar feature + brand differentiation |
+| RSC-004 | Mudança regulatória | Baixa | Alto | Compliance team + monitoramento |
+| RSC-005 | Falha de integração | Média | Médio | QA rigoroso + fallback manual |
+| RSC-006 | Team burnout | Média | Alto | Automação IA + processos claros |
+| RSC-007 | Sazonalidade | Alta | Médio | Planejar budget + campanhas off-season |
 
 ---
 
@@ -1344,21 +1339,34 @@ Este plano de marketing posiciona o SaaS de Fluxo de Caixa como a solução líd
 ├─────────────────────────────────────────────────────────────────────────┤
 │                                                                          │
 │  SEMANA 1                                                               │
-│  [ ] Configurar Google Analytics 4 + goals                             │
-│  [ ] Criar landing page de trial                                        │
-│  [ ] Configurar pixel do Facebook/Meta                                  │
-│  [ ] Criar conta Google Ads (structure inicial)                         │
-│  [ ] Configurar CRM (HubSpot/Pipedrive trial)                          │
+│  [ ] (ACT-001) Configurar Google Analytics 4 + goals                   │
+│  [ ] (ACT-002) Criar landing page de trial                              │
+│  [ ] (ACT-003) Configurar pixel do Facebook/Meta                        │
+│  [ ] (ACT-004) Criar conta Google Ads (structure inicial)               │
+│  [ ] (ACT-005) Configurar CRM (HubSpot/Pipedrive trial)                 │
 │                                                                          │
 │  SEMANA 2                                                               │
-│  [ ] Desenvolver 3 primeiros artigos de blog                           │
-│  [ ] Gravar video de demo (3-5 min)                                    │
-│  [ ] Criar primeiras 5 sequências de e-mail                            │
-│  [ ] Configurar Tag Manager para tracking                               │
-│  [ ] Briefing para equipe de criação (primeiros assets)                │
+│  [ ] (ACT-006) Desenvolver 3 primeiros artigos de blog                  │
+│  [ ] (ACT-007) Gravar video de demo (3-5 min)                            │
+│  [ ] (ACT-008) Criar primeiras 5 sequências de e-mail                   │
+│  [ ] (ACT-009) Configurar Tag Manager para tracking                     │
+│  [ ] (ACT-010) Briefing para equipe de criação (primeiros assets)       │
 │                                                                          │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
+
+| ID | Ação | Semanas | Responsável | Status |
+|----|------|---------|------------|--------|
+| ACT-001 | Configurar Google Analytics 4 + goals | 1 | Marketing | Pendente |
+| ACT-002 | Criar landing page de trial | 1 | Dev/Marketing | Pendente |
+| ACT-003 | Configurar pixel do Facebook/Meta | 1 | Marketing | Pendente |
+| ACT-004 | Criar conta Google Ads (structure inicial) | 1 | Marketing | Pendente |
+| ACT-005 | Configurar CRM | 1 | Marketing | Pendente |
+| ACT-006 | Desenvolver 3 primeiros artigos de blog | 2 | Content | Pendente |
+| ACT-007 | Gravar video de demo | 2 | Marketing | Pendente |
+| ACT-008 | Criar sequências de e-mail | 2 | Marketing | Pendente |
+| ACT-009 | Configurar Tag Manager | 2 | Dev | Pendente |
+| ACT-010 | Briefing para equipe de criação | 2 | Marketing | Pendente |
 
 ### 11.3 Métricas de Validação ( первые 30 dias)
 
